@@ -1,0 +1,6 @@
+Case1,Testcases\Sample\Case1\,1synsets,2hypernyms,3RelationsQueries,4OutcastQueries,Output1,Output2
+Case2,Testcases\Sample\Case2\,1synsets,2hypernyms,3RelationsQueries,Output1
+Case3,Testcases\Sample\Case3\,1synsets,2hypernyms,3RelationsQueries,4OutcastQueries,Output1,Output2
+Case4,Testcases\Sample\Case4\,1synsets,2hypernyms,3RelationsQueries,4OutcastQueries,Output1,Output2
+Bidirectional,Testcases\Sample\Bidirectional\,1synsets,2hypernyms,3RelationsQueries,Output1,
+Many-Many,Testcases\Sample\Many-Many\,1synsets,2hypernyms,3RelationsQueries,Output1

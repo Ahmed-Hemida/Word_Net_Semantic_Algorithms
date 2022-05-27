@@ -1,0 +1,14 @@
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\obj\Debug\netcoreapp3.1\WordNet_Semantic_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\obj\Debug\netcoreapp3.1\WordNet_Semantic_Project.AssemblyInfoInputs.cache
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\obj\Debug\netcoreapp3.1\WordNet_Semantic_Project.AssemblyInfo.cs
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\obj\Debug\netcoreapp3.1\WordNet_Semantic_Project.csproj.CoreCompileInputs.cache
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\bin\Debug\netcoreapp3.1\WordNet_Semantic_Project.exe
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\bin\Debug\netcoreapp3.1\WordNet_Semantic_Project.deps.json
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\bin\Debug\netcoreapp3.1\WordNet_Semantic_Project.runtimeconfig.json
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\bin\Debug\netcoreapp3.1\WordNet_Semantic_Project.runtimeconfig.dev.json
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\bin\Debug\netcoreapp3.1\WordNet_Semantic_Project.dll
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\bin\Debug\netcoreapp3.1\WordNet_Semantic_Project.pdb
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\obj\Debug\netcoreapp3.1\WordNet_Semantic_Project.dll
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\obj\Debug\netcoreapp3.1\WordNet_Semantic_Project.pdb
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\obj\Debug\netcoreapp3.1\WordNet_Semantic_Project.genruntimeconfig.cache
+D:\Study\3rd year\Algo\WordNet_Semantic_Project\WordNet_Semantic_Project\obj\Debug\netcoreapp3.1\WordNet_Semantic_Project.csproj.AssemblyReference.cache

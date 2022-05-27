@@ -1,0 +1,7 @@
+Small-Case1,Testcases\Complete\1-Small\Case1\,1synsets,2hypernyms,3RelationsQueries,4OutcastQueries,Output1,Output2
+Small-Case2,Testcases\Complete\1-Small\Case2\,1synsets,2hypernyms,3RelationsQueries,4OutcastQueries,Output1,Output2
+Medium-Case1,Testcases\Complete\2-Medium\Case1\,1synsets,2hypernyms,3RelationsQueries,4OutcastQueries,Output1,Output2
+Medium-Case2,Testcases\Complete\2-Medium\Case2\,1synsets,2hypernyms,3RelationsQueries,4OutcastQueries,Output1,Output2
+Large-Case1,Testcases\Complete\3-Large\Case1\,1synsets,2hypernyms,3RelationsQueries,4OutcastQueries,Output1,Output2
+Large-Case2,Testcases\Complete\3-Large\Case2\,1synsets,2hypernyms,3RelationsQueries,4OutcastQueries,Output1,Output2
+Large-Case3,Testcases\Complete\3-Large\Case3\,1synsets,2hypernyms,3RelationsQueries,Output1
